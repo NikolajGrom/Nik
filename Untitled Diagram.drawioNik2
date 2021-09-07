@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T17:22:04.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="H8_J4t_fFDGlapJGAwRC" version="15.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-07T17:43:30.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-mA5gMAfpmk3Ly8Os3bI" version="15.1.1" type="github" pages="2">
   <diagram id="RPt8z2VVzkmy0Z_Ckdfr" name="Page-1">
-    <mxGraphModel dx="1313" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="322" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nX2pDBCLk1l6L_5nWQ1d-1" value="Комната" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="190" width="200" height="202" as="geometry" />
+        <mxCell id="nX2pDBCLk1l6L_5nWQ1d-1" value="Комната" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="200" height="196" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-2" value="- длина: float&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nX2pDBCLk1l6L_5nWQ1d-1">
-          <mxGeometry y="26" width="200" height="26" as="geometry" />
+          <mxGeometry y="20" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-9" value="&amp;nbsp;- ширина: float" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="nX2pDBCLk1l6L_5nWQ1d-1">
-          <mxGeometry y="52" width="200" height="30" as="geometry" />
+          <mxGeometry y="46" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-10" value="&amp;nbsp;- высота: float" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="nX2pDBCLk1l6L_5nWQ1d-1">
-          <mxGeometry y="82" width="200" height="30" as="geometry" />
+          <mxGeometry y="76" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-41" value="&lt;font face=&quot;helvetica&quot;&gt;&amp;nbsp;- темпКомнаты:float&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="nX2pDBCLk1l6L_5nWQ1d-1">
-          <mxGeometry y="112" width="200" height="30" as="geometry" />
+          <mxGeometry y="106" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="nX2pDBCLk1l6L_5nWQ1d-1">
-          <mxGeometry y="142" width="200" height="8" as="geometry" />
+          <mxGeometry y="136" width="200" height="8" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-4" value="+ public Комната( д, ш, в,)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nX2pDBCLk1l6L_5nWQ1d-1">
-          <mxGeometry y="150" width="200" height="26" as="geometry" />
+          <mxGeometry y="144" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-11" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nX2pDBCLk1l6L_5nWQ1d-1">
-          <mxGeometry y="176" width="200" height="26" as="geometry" />
+          <mxGeometry y="170" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nX2pDBCLk1l6L_5nWQ1d-12" value="Кондиционер" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="190" width="390" height="240" as="geometry" />
