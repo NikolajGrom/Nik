@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T16:35:34.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="15.2.4" etag="N4y5d7E0LJY5IY3EkPul" type="github"><diagram id="gFztGU7AP9FfWb09eEWy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-13T17:24:24.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="v3pYArw7UCxVtNg-N4pG" version="15.2.4" type="github">
+  <diagram id="gFztGU7AP9FfWb09eEWy" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cbJjGIdikKrvcxVOTl77-3" value="&lt;div&gt;&amp;nbsp;Разработать архитектуру классов иерархии товаров&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; при разработке системы управления потоками товаров для&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; дистрибьюторской компании. Прописать члены классов.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Создать диаграммы взаимоотношений классов.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Должны быть предусмотрены разные типы товаров,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; в том числе:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; • бытовая химия;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; • продукты питания.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-10" value="&lt;div&gt;//искуственный продукт&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; class ArtificialProduct : HouseholdChemicals&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-11" value="&lt;div&gt;&amp;nbsp;// приход&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; class Coming&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="345" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-12" value="&lt;div&gt;&amp;nbsp;// бытовая химия&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public abstract class HouseholdChemicals : ProductСategory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-13" value="&lt;div&gt;// реализовано&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; class Implemented&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ProductСategory ProductImplemented;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="455" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-14" value="&lt;div&gt;//Товар&lt;/div&gt;&lt;div&gt;public abstract class Product&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-16" value="&lt;div&gt;//продукты питания&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public abstract class ProductsNutrition : ProductСategory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="620" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-17" value="&lt;div&gt;// Категория товара&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public abstract class ProductСategory : Product&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-18" value="&lt;div&gt;//седобный продукт&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; class SaltyProduct : ProductsNutrition&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="750" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-19" value="&lt;div&gt;&amp;nbsp; //передано&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; class Transferred&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ProductСategory ProductTransferred;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="815" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cbJjGIdikKrvcxVOTl77-20" value="&lt;div&gt;&amp;nbsp; //списано&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; class WrittenOff&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ProductСategory ProductOff;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="895" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
