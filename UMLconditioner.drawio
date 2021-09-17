@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T21:30:16.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="hjNEFVZ2e8bQBDH80rC9" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T21:33:19.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="s1SrNC44vmOpxvukafBQ" version="15.2.9" type="github">
   <diagram id="fSP1RlAC8vX0w-eQDweL" name="Page-1">
-    <mxGraphModel dx="806" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="322" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,12 @@
         </mxCell>
         <mxCell id="T-YBNMZaAXyBkbNDSHO9-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="810" y="550" width="20" height="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-34" value="Включение&lt;br&gt;Установка режима&lt;br&gt;на обогрев" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.007;exitY=0.207;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-YBNMZaAXyBkbNDSHO9-21" target="T-YBNMZaAXyBkbNDSHO9-33">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="629.07" y="570" as="sourcePoint" />
+            <mxPoint x="809.07" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
