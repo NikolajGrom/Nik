@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T22:40:36.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="y7qWejgL3NUsFHCch_Qh" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T22:44:03.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="3fk0KQRq-BKVBvpJjWjz" version="15.2.9" type="github">
   <diagram id="fSP1RlAC8vX0w-eQDweL" name="Page-1">
     <mxGraphModel dx="806" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,7 +375,7 @@
             <mxPoint x="420" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-YBNMZaAXyBkbNDSHO9-73" value="Датчик&amp;nbsp;&lt;br&gt;температуры&lt;br&gt;работают&lt;br&gt;постоянно" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-73" value="Датчик&amp;nbsp;&lt;br&gt;температуры&lt;br&gt;работает&lt;br&gt;постоянно" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="330" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T-YBNMZaAXyBkbNDSHO9-74" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="T-YBNMZaAXyBkbNDSHO9-73">
