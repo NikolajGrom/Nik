@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T21:52:14.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="l3p1c0G7fvAuGiRcW2PQ" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T22:01:42.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="7pjwU8mROpfnH7CKNArI" version="15.2.9" type="github">
   <diagram id="fSP1RlAC8vX0w-eQDweL" name="Page-1">
     <mxGraphModel dx="806" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-YBNMZaAXyBkbNDSHO9-28" value="Замер температуры&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.116;exitY=0.128;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="T-YBNMZaAXyBkbNDSHO9-21" target="T-YBNMZaAXyBkbNDSHO9-9">
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-28" value="Замер температуры&amp;nbsp;&lt;br&gt;постоянно" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.116;exitY=0.128;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="T-YBNMZaAXyBkbNDSHO9-21" target="T-YBNMZaAXyBkbNDSHO9-9">
           <mxGeometry x="-0.0031" width="80" relative="1" as="geometry">
             <mxPoint x="430" y="490" as="sourcePoint" />
             <mxPoint x="771.6599999999999" y="491.3399999999999" as="targetPoint" />
@@ -141,30 +141,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T-YBNMZaAXyBkbNDSHO9-37" value="Обдув" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.025;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.059;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.5371" width="80" relative="1" as="geometry">
+          <mxGeometry y="-1" width="80" relative="1" as="geometry">
             <mxPoint x="609.6800000000001" y="550" as="sourcePoint" />
             <mxPoint x="230.32026000000013" y="548.68" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T-YBNMZaAXyBkbNDSHO9-38" value="Обдув" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.025;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.059;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.5371" width="80" relative="1" as="geometry">
+          <mxGeometry x="0.0066" y="-1" width="80" relative="1" as="geometry">
             <mxPoint x="610.9300000000001" y="681.32" as="sourcePoint" />
             <mxPoint x="231.57026000000013" y="680" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T-YBNMZaAXyBkbNDSHO9-39" value="Замер температуры&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.116;exitY=0.128;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0031" width="80" relative="1" as="geometry">
-            <mxPoint x="610.9300000000001" y="600" as="sourcePoint" />
-            <mxPoint x="232.10424000000006" y="599.4799999999999" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T-YBNMZaAXyBkbNDSHO9-40" value="Замер температуры&amp;nbsp;&lt;br&gt;постоянно" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.116;exitY=0.128;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0031" width="80" relative="1" as="geometry">
-            <mxPoint x="608.83" y="720.52" as="sourcePoint" />
-            <mxPoint x="230.00424000000007" y="719.9999999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -194,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T-YBNMZaAXyBkbNDSHO9-44" value="Обдув" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.025;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.059;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.5371" width="80" relative="1" as="geometry">
+          <mxGeometry y="-1" width="80" relative="1" as="geometry">
             <mxPoint x="609.6800000000001" y="841.32" as="sourcePoint" />
             <mxPoint x="230.32026000000013" y="839.9999999999999" as="targetPoint" />
             <mxPoint as="offset" />
@@ -223,9 +209,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T-YBNMZaAXyBkbNDSHO9-48" value="Обдув" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.025;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.059;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.5371" width="80" relative="1" as="geometry">
+          <mxGeometry y="-1" width="80" relative="1" as="geometry">
             <mxPoint x="609.6800000000001" y="1051.32" as="sourcePoint" />
             <mxPoint x="230.32026000000013" y="1049.9999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-49" value="Температура соответствует" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.004;entryY=0.151;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0026" relative="1" as="geometry">
+            <mxPoint x="229.5" y="1120" as="sourcePoint" />
+            <mxPoint x="610.5025599999999" y="1120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-50" value="Температура&amp;nbsp;&lt;br&gt;соответствует" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.051;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.15" y="50" width="80" relative="1" as="geometry">
+            <mxPoint x="629.07" y="1120" as="sourcePoint" />
+            <mxPoint x="629.0748600000003" y="1159.08" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="679.0748600000003" y="1120.08" />
+              <mxPoint x="679.0748600000003" y="1159.08" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-52" value="Обдув снизить и продолжать" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.025;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.059;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0017" y="-1" width="80" relative="1" as="geometry">
+            <mxPoint x="609.36" y="1200.66" as="sourcePoint" />
+            <mxPoint x="230.00026000000014" y="1199.34" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-53" value="Отключить" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.007;exitY=0.207;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="629.6" y="1270" as="sourcePoint" />
+            <mxPoint x="810.00302" y="1270.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-54" value="Температура&amp;nbsp;&lt;br&gt;соответствует" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.051;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.15" y="50" width="80" relative="1" as="geometry">
+            <mxPoint x="630" y="1320" as="sourcePoint" />
+            <mxPoint x="630.00486" y="1359.08" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680.0048600000001" y="1320.08" />
+              <mxPoint x="680.0048600000001" y="1359.08" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YBNMZaAXyBkbNDSHO9-55" value="Температура соответствует" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.004;entryY=0.151;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0026" relative="1" as="geometry">
+            <mxPoint x="230" y="1320" as="sourcePoint" />
+            <mxPoint x="611.0025599999999" y="1320" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
